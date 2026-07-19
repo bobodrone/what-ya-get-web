@@ -2,7 +2,7 @@ services:
   web:
     build: .
     ports:
-      - "${PORT}:${PORT}"
+      - "3006:3000"
     environment:
       # adapter-node reads these at runtime.
       - PORT=${PORT}

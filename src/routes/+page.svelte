@@ -98,7 +98,7 @@
 		</summary>
 		<p class="mt-3 text-balance">
 			<strong>What Ya Get</strong> is a little collection of the things I bring to the work place table —
-			counted up over time until retirement and I paired it with a song. Each visit shows a random one; reload for
+			counted up over time until <em>retirement</em> and I paired it with a song. Each visit shows a random one; reload for
 			another, or share a specific one with its permalink. For more info: <a target="_blank" href="https://www.linkedin.com/in/pennache/" class="underline underline-offset-4"><strong>click here</strong>.</a>
 		</p>
 	</details>

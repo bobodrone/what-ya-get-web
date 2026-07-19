@@ -1,0 +1,13 @@
+services:
+  web:
+    build: .
+    ports:
+      - "${PORT}:${PORT}"
+    environment:
+      # adapter-node reads these at runtime.
+      - PORT=${PORT}
+      - HOST=0.0.0.0
+      # Public origin of the site, e.g. https://whatyaget.example.com
+      # Needed by SvelteKit for correct absolute URLs / CSRF handling.
+      - ORIGIN=${ORIGIN}
+    restart: unless-stopped

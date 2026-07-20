@@ -102,15 +102,6 @@
 			counted up over time until <em>retirement</em> and I paired it with a song. Each visit shows a random one; reload for
 			another, or share a specific one with its permalink. For more info: <a target="_blank" href="https://www.linkedin.com/in/pennache/" class="underline underline-offset-4"><strong>click here</strong>.</a>
 		</p>
-		<div class="my-4">
-			<p><strong>Download a cool CLI client here:</strong></p>
-			<ul class="list-disc">
-				<li><a href="https://pennache.s3.eu-west-1.amazonaws.com/what-ya-get/what-ya-get-cli-linux.tar.gz" download>Linux</a></li>
-				<li><a href="https://pennache.s3.eu-west-1.amazonaws.com/what-ya-get/what-ya-get-cli-osx-arm6.tar.gz" download>OSX (arm6)</a></li>
-				<li><a href="https://pennache.s3.eu-west-1.amazonaws.com/what-ya-get/what-ya-get-cli-osx-x64.tar.gz" download>OSX (x64)</a></li>
-				<li><a href="https://pennache.s3.eu-west-1.amazonaws.com/what-ya-get/what-ya-get-cli-win.zip" download>Win</a></li>
-			</ul>
-		</div>
 	</details>
 
 	<details class="max-w-md text-left text-sm text-gray-500">
